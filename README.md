@@ -70,8 +70,6 @@ Unser Team arbeitet nach strengen agilen Prinzipien, um in 7 Wochen ein fertiges
 
 
 
-&nbsp;
-
 ### Tages Zusammenfassung
 
 __Fynn Huber__
