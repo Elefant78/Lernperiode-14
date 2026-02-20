@@ -17,25 +17,29 @@ __21-Gambling__ ist eine moderne Web-Applikation, die das klassische Casino-Feel
 
 - __Responsive Design:__ Optimiert für flüssiges Gameplay und intuitive Bedienung.
 
-🛠 Tech Stack
+
+
+## Tech Stack
 Für maximale Performance und eine geringe Latenz setzen wir auf folgende Technologien:
 
-Frontend: React.js mit Tailwind CSS für ein dynamisches und hochperformantes User Interface.
+- Frontend: React.js mit Tailwind CSS für ein dynamisches und hochperformantes User Interface.
 
-Backend: Node.js & Express als zentrales Nervenzentrum für die Spiellogik.
+- Backend: Node.js & Express als zentrales Nervenzentrum für die Spiellogik.
 
-Echtzeit-Kommunikation: Socket.io für die bidirektionale Synchronisation zwischen Server und allen Clients.
+- Echtzeit-Kommunikation: Socket.io für die bidirektionale Synchronisation zwischen Server und allen Clients.
 
-Hosting: Bereitgestellt auf Microsoft Azure (App Services), inklusive aktivierter WebSockets für stabiles Multiplayer-Gaming.
+- Hosting: Bereitgestellt auf Microsoft Azure (App Services), inklusive aktivierter WebSockets für stabiles Multiplayer-Gaming.
 
-🏗 Entwicklung & Workflow
+
+
+## Entwicklung & Workflow
 Unser Team arbeitet nach strengen agilen Prinzipien, um in 7 Wochen ein fertiges Produkt zu liefern:
 
-Git-Strategie: Modularer Aufbau durch Feature-Branches und konsequente Code-Reviews.
+- Git-Strategie: Modularer Aufbau durch Feature-Branches und konsequente Code-Reviews.
 
-Arbeitspakete: Jede Sitzung wird in 12 spezifische Tasks unterteilt, um einen stetigen Fortschritt und saubere Commits zu garantieren.
+- Arbeitspakete: Jede Sitzung wird in 12 spezifische Tasks unterteilt, um einen stetigen Fortschritt und saubere Commits zu garantieren.
 
-Security: Die Spiellogik (Kartenmischen, Werteberechnung) findet ausschließlich auf dem Server statt, um Manipulationen zu verhindern.
+- Security: Die Spiellogik (Kartenmischen, Werteberechnung) findet ausschließlich auf dem Server statt, um Manipulationen zu verhindern.
 
 📖 Kurzregeln
 Ziel: Erreiche 21 Punkte oder bleibe näher dran als der Dealer, ohne die 21 zu überschreiten (Bust).
