@@ -4,21 +4,18 @@ Die Dokumentare Seite unseres 21-Gambling Spiels, hier befindet sich das README 
 ## 21-Gambling
 Die ultimative Echtzeit-Blackjack-Erfahrung für dich und deine Freunde.
 
-__21-Gambling__ ist eine moderne Web-Applikation, die das klassische Casino-Feeling direkt in den Browser bringt. Unser Fokus liegt auf einem nahtlosen __Multiplayer-Erlebnis:__ Erstelle eine Lobby, teile den Link und tritt gemeinsam mit bis zu 3 weiteren Spielern gegen die Bank (CPU) an.
+__21-Gambling__ ist eine moderne Web-Applikation, die das klassische Casino-Feeling direkt in den Browser bringt. Unser Fokus liegt auf einem nahtlosen __Multiplayer-Erlebnis:__ Erstelle eine Lobby, teile den Link und tritt gemeinsam mit bis zu 3 weiteren Spielern gegen die Bank (CPU) an. Anstatt gegen anonyme Gegner zu spielen, ermöglicht unsere 21-Gambling-Website private Spielrunden durch ein einfaches Einladungs-System.
 
-### Das Projekt
-Entwickelt im Rahmen eines 7-wöchigen Schulprojekts, kombiniert 21-Gambling komplexe Spiellogik mit moderner Web-Technologie. Anstatt gegen anonyme Gegner zu spielen, ermöglicht unser System private Spielrunden durch ein einfaches Einladungs-System.
+## Kern-Features
+__Instant Lobbies:__ Erstelle einen Spielraum und verschicke den Einladungs-Link (wie bei skribbl.io).
 
-Kern-Features
-Instant Lobbies: Erstelle einen Spielraum und verschicke den Einladungs-Link (wie bei skribbl.io).
+__Echtzeit-Action:__ Jede gezogene Karte und jeder Einsatz wird dank WebSockets sofort für alle Spieler synchronisiert.
 
-Echtzeit-Action: Jede gezogene Karte und jeder Einsatz wird dank WebSockets sofort für alle Spieler synchronisiert.
+__Multiplayer vs. Bank:__ Bis zu 4 Spieler können gleichzeitig am Tisch Platz nehmen und versuchen, den Dealer zu schlagen.
 
-Multiplayer vs. Bank: Bis zu 4 Spieler können gleichzeitig am Tisch Platz nehmen und versuchen, den Dealer zu schlagen.
+__Smart Dealer Logic:__ Eine automatisierte Bank, die strikt nach den offiziellen Blackjack-Regeln agiert (Stand bei 17).
 
-Smart Dealer Logic: Eine automatisierte Bank, die strikt nach den offiziellen Blackjack-Regeln agiert (Stand bei 17).
-
-Responsive Design: Optimiert für flüssiges Gameplay und intuitive Bedienung.
+__Responsive Design:__ Optimiert für flüssiges Gameplay und intuitive Bedienung.
 
 🛠 Tech Stack
 Für maximale Performance und eine geringe Latenz setzen wir auf folgende Technologien:
