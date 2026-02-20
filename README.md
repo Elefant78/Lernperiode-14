@@ -51,6 +51,8 @@ Unser Team arbeitet nach strengen agilen Prinzipien, um in 7 Wochen ein fertiges
 
 &nbsp;
 
+---
+
 &nbsp;
 
 
@@ -60,7 +62,7 @@ Unser Team arbeitet nach strengen agilen Prinzipien, um in 7 Wochen ein fertiges
 
 &nbsp;
 
----
+
 
 &nbsp;
 
@@ -72,6 +74,12 @@ Unser Team arbeitet nach strengen agilen Prinzipien, um in 7 Wochen ein fertiges
 
 **Tages Zusammenfassung** Fynn Huber
 Heute haben wir als Team uns eine Projektidee ausgedacht und die dafür nötigen Techniken ausgewählt. Anschliessend habe ich das GitHub-Repo für den Code erstellt, auf welches mithilfe von Git der Code hochgeladen wird. Anschliessend habe ich die Projektstruktur für das Frontend erstellt und gepusht.
+
+**Tages Zusammenfassung** Tim Tafolli        
+...
+
+**Tages Zusammenfassung** Doruk Güler      
+...
 
 
 &nbsp;
