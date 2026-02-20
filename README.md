@@ -4,7 +4,7 @@ Die Dokumentare Seite unseres 21-Gambling Spiels, hier befindet sich das README 
 ## 21-Gambling
 Die ultimative Echtzeit-Blackjack-Erfahrung für dich und deine Freunde.
 
-__21-Gambling__ ist eine moderne Web-Applikation, die das klassische Casino-Feeling direkt in den Browser bringt. Unser Fokus liegt auf einem nahtlosen Multiplayer-Erlebnis: Erstelle eine Lobby, teile den Link und tritt gemeinsam mit bis zu 3 weiteren Spielern gegen die Bank (CPU) an.
+__21-Gambling__ ist eine moderne Web-Applikation, die das klassische Casino-Feeling direkt in den Browser bringt. Unser Fokus liegt auf einem nahtlosen __Multiplayer-Erlebnis:__ Erstelle eine Lobby, teile den Link und tritt gemeinsam mit bis zu 3 weiteren Spielern gegen die Bank (CPU) an.
 
 ### Das Projekt
 Entwickelt im Rahmen eines 7-wöchigen Schulprojekts, kombiniert 21-Gambling komplexe Spiellogik mit moderner Web-Technologie. Anstatt gegen anonyme Gegner zu spielen, ermöglicht unser System private Spielrunden durch ein einfaches Einladungs-System.
