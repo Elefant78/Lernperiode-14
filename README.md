@@ -90,19 +90,19 @@ Heute haben wir als Team uns eine Projektidee ausgedacht und die dafür nötigen
 - [ ] Blackjack spielregen defineiren
 - [ ] Generieren eines Kartendecks 52 karten (in Javascript)
 - [ ] Logik für das Mischen der Karten (In JavaScript)
-- [ ]  Hosten auf azure planen (team)
+- [ ]  Pitch planen / erstellen
 
 **Arbeitspakete** Doruk Güler
 - [ ] Grundlegendes Express server Setup (Hello World)
 - [ ] Socket.io auf dem Server initialisieren
 - [ ] .gitignore für Node ersellen
-- [ ]  Hosten auf azure planen (team)
+- [ ]  Pitch planen / erstellen
 
 **Arbeitspakete** Fynn Huber
 - [ ] React BSP Projekt aufräumen und eigene Filestruktur erstellen
 - [ ] Grundstruktur der Website erstellen (gerüst)
 - [ ] tailwind CSS installieren und Konfigurieren
-- [ ] Hosten auf azure planen (team)
+- [ ]  Pitch planen / erstellen
 
 &nbsp;
 
