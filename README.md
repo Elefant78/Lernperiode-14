@@ -9,13 +9,13 @@ __21-Gambling__ ist eine moderne Web-Applikation, die das klassische Casino-Feel
 ## Kern-Features
 - __Instant Lobbies:__ Erstelle einen Spielraum und verschicke den Einladungs-Link (wie bei skribbl.io).
 
-__Echtzeit-Action:__ Jede gezogene Karte und jeder Einsatz wird dank WebSockets sofort für alle Spieler synchronisiert.
+- __Echtzeit-Action:__ Jede gezogene Karte und jeder Einsatz wird dank WebSockets sofort für alle Spieler synchronisiert.
 
-__Multiplayer vs. Bank:__ Bis zu 4 Spieler können gleichzeitig am Tisch Platz nehmen und versuchen, den Dealer zu schlagen.
+- __Multiplayer vs. Bank:__ Bis zu 4 Spieler können gleichzeitig am Tisch Platz nehmen und versuchen, den Dealer zu schlagen.
 
-__Smart Dealer Logic:__ Eine automatisierte Bank, die strikt nach den offiziellen Blackjack-Regeln agiert (Stand bei 17).
+- __Smart Dealer Logic:__ Eine automatisierte Bank, die strikt nach den offiziellen Blackjack-Regeln agiert (Stand bei 17).
 
-__Responsive Design:__ Optimiert für flüssiges Gameplay und intuitive Bedienung.
+- __Responsive Design:__ Optimiert für flüssiges Gameplay und intuitive Bedienung.
 
 🛠 Tech Stack
 Für maximale Performance und eine geringe Latenz setzen wir auf folgende Technologien:
