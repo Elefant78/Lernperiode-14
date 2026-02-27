@@ -157,8 +157,10 @@ Heute habe ich, kurz an der Definition des Spiels festgehalten, damit jede Perso
 - [ ] Logik für das Mischen der Karten (In JavaScript)
 
 
-**Arbeitspakete** Doruk Güler         
-- [ ] Socket.io auf dem Server initialisieren
+**Arbeitspakete** Doruk Güler   
+- [ ] Individuelle Lobbys IDs erstellen      
+- [ ] Lobby mit ID beitreten
+- [ ] Lobbysysthem ans Frontend anpassen
 
 
 **Arbeitspakete** Fynn Huber         
