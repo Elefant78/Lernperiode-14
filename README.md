@@ -119,7 +119,7 @@ Heute habe ich mich mit meinen Teamkameraden zusammengesetzt und erst einmal geb
 
 **Arbeitspakete** Tim Tafolli         
 - [x] Blackjack spielregen defineiren
-- [ ] Generieren eines Kartendecks 52 karten (in Javascript)
+- [X] Generieren eines Kartendecks 52 karten (in Javascript)
 - [ ] Logik für das Mischen der Karten (In JavaScript)
 - [x]  Pitch planen / erstellen
 
@@ -145,15 +145,20 @@ Heute habe ich das React-Projekt aufgeräumt und die Dateien hinzugefügt, welch
 __Doruk Güler__
 Heute habe ich das Backend das heisst die Express.js Dateien erstellt. Danach habe ich das Socket.io auf dem erstelltem Server initialisiert. Ebenfalls habe ich den ersten Lobbysysthem mit Socket.io implementiert so dass ein Lobby mit ID erstellt wird und man mit dieser ID dann denn room von freunden joinen kann.
 
+__Tim Tafolli__
+Heute habe ich, kurz an der Definition des Spiels festgehalten, damit jede Person weiss, wie Blackjack funktioniert und welche Features wir eingebaut haben. Im zweiten Teil habe ich mich an die Logik der Kartensätze und des Decks selber, also aller 52 Karten, gehalten. Hier war es wichtig, die Funktion so zu machen, dass der Spieler die Auswahl der Kartensätze treffen kann. Ich habe weiter an der Shuffle-Funktion gearbeitet. Ich habe mich mit Ki's darüber informiert, welcher Algorithmus sich eignet. Dabei bin ich auf den Fisher-Yates Shuffle gestossen. 	
+
 
 &nbsp;
 
 ## Arbeit 06.03.2026        
 
 **Arbeitspakete** Tim Tafolli         
+- [ ] Logik für das Mischen der Karten (In JavaScript)
 
 
 **Arbeitspakete** Doruk Güler         
+- [ ] Socket.io auf dem Server initialisieren
 
 
 **Arbeitspakete** Fynn Huber         
