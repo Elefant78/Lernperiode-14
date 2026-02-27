@@ -77,6 +77,8 @@ Unser Team arbeitet nach strengen agilen Prinzipien, um in 7 Wochen ein fertiges
 - **Player Action** Nach dem intital Deal, handeln alle Spieler nach ihren wwünschen und in der Reihenfolge. Der Dealer handelt erst am Schluss.
 - **Dealer's Turn** Erstens deckt der Dealer seine verdeckte Karte auf, der Dealer zieht weitere Karten, bis er mindestens 17 Punkte erreicht hat (festgelegte Regel).
 
+### Win
+- bei einen Gewinn der Spieler gewinnen sie das 1 Fache ihres Einsatzes, dass heisst bei einem Einsatz von 10 gewinnt er Spieler 10, also bekommt er 20 zurück insgesamt
 
 &nbsp;
 
@@ -116,7 +118,7 @@ Heute habe ich mich mit meinen Teamkameraden zusammengesetzt und erst einmal geb
 ## Arbeit 27.02.2026        
 
 **Arbeitspakete** Tim Tafolli         
-- [ ] Blackjack spielregen defineiren
+- [x] Blackjack spielregen defineiren
 - [ ] Generieren eines Kartendecks 52 karten (in Javascript)
 - [ ] Logik für das Mischen der Karten (In JavaScript)
 - [x]  Pitch planen / erstellen
