@@ -142,3 +142,6 @@ Heute habe ich mich mit meinen Teamkameraden zusammengesetzt und erst einmal geb
 __Fynn Huber__    
 Heute habe ich das React-Projekt aufgeräumt und die Dateien hinzugefügt, welche in Zukunft benutzt werden. Danach habe ich angefangen mit dem Handhaben der Lobby und Spieler, da dies das Erste ist, was wir realisieren wollen, sodass sich eine Lobby mit mehreren Spielern erstellen lässt. Zusätzlich habe ich Tailwind im Projekt eingefügt für eine einfachere Handhabung des Stylings.
 
+__Doruk Güler__
+Heute habe ich das Backend das heisst die Express.js Dateien erstellt. Danach habe ich das Socket.io auf dem erstelltem Server initialisiert. Ebenfalls habe ich den ersten Lobbysysthem mit Socket.io implementiert so dass ein Lobby mit ID erstellt wird und man mit dieser ID dann denn room von freunden joinen kann.
+
