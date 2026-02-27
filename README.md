@@ -145,3 +145,24 @@ Heute habe ich das React-Projekt aufgeräumt und die Dateien hinzugefügt, welch
 __Doruk Güler__
 Heute habe ich das Backend das heisst die Express.js Dateien erstellt. Danach habe ich das Socket.io auf dem erstelltem Server initialisiert. Ebenfalls habe ich den ersten Lobbysysthem mit Socket.io implementiert so dass ein Lobby mit ID erstellt wird und man mit dieser ID dann denn room von freunden joinen kann.
 
+
+&nbsp;
+
+## Arbeit 06.03.2026        
+
+**Arbeitspakete** Tim Tafolli         
+
+
+**Arbeitspakete** Doruk Güler         
+
+
+**Arbeitspakete** Fynn Huber         
+- [ ] Fertigstellung des Codes für das Handling der Lobby und Spieler. 
+- [ ] Die Spielerliste anzeigen im Browser (welche spieler in der Lobby sind)
+- [ ] Lobby einstellungen definieren (im Team besprechen) und diese Einstellungen in der ansichten einbinden
+- [ ] Spiel Starten Button hinzufügen um das Spiel zu starten (Bereit Button für die anderen Teilnehmer)
+
+
+&nbsp;
+
+**Tages Zusammenfassung**          
