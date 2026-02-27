@@ -90,19 +90,19 @@ Heute habe ich mich mit meinen Teamkameraden zusammengesetzt und erst einmal geb
 - [ ] Blackjack spielregen defineiren
 - [ ] Generieren eines Kartendecks 52 karten (in Javascript)
 - [ ] Logik für das Mischen der Karten (In JavaScript)
-- [ ]  Pitch planen / erstellen
+- [x]  Pitch planen / erstellen
 
 **Arbeitspakete** Doruk Güler         
 - [ ] Grundlegendes Express server Setup (Hello World)
 - [ ] Socket.io auf dem Server initialisieren
 - [ ] .gitignore für Node ersellen
-- [ ]  Pitch planen / erstellen
+- [x]  Pitch planen / erstellen
 
 **Arbeitspakete** Fynn Huber         
 - [ ] React BSP Projekt aufräumen und eigene Filestruktur erstellen
 - [ ] Grundstruktur der Website erstellen (gerüst)
 - [ ] tailwind CSS installieren und Konfigurieren
-- [ ]  Pitch planen / erstellen
+- [x]  Pitch planen / erstellen
 
 &nbsp;
 
