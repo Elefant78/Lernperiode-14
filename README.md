@@ -40,29 +40,31 @@ Unser Team arbeitet nach strengen agilen Prinzipien, um in 7 Wochen ein fertiges
 - Arbeitspakete: Jede Sitzung wird in 12 spezifische Tasks unterteilt, um einen stetigen Fortschritt und saubere Commits zu garantieren.
 
 - Security: Die Spiellogik (Kartenmischen, Werteberechnung) findet ausschließlich auf dem Server statt, um Manipulationen zu verhindern.
+&nbsp;
+&nbsp;
 
 # Die Spielregeln
 
-## Ziel
+### Ziel
 - Mehr Punkte als der Dealer erreichen, ohne die **21** zu überschreiten.
 
-## Kartenwerte
+### Kartenwerte
 - **2 bis 10** = Nennwert  
 - **J, Q, K** = 10 Punkte  
 - **Ass** = 1 oder 11 Punkte (flexibel)
 
-## Der „Blackjack“
+### Der „Blackjack“
 - Ein **Ass** und eine **10er-Karte** direkt beim ersten Geben  
 - Zahlt meist **3:2**
 
-## Aktionen
+### Aktionen
 - **Hit**: Weitere Karte ziehen  
 - **Stand**: Keine weitere Karte ziehen  
 - **Double Down**: Einsatz verdoppeln, genau eine weitere Karte erhalten  
 - **Split**: Bei zwei gleichen Karten das Blatt teilen (erfordert zwei separate Einsätze)  
 - **Insurance**: Versicherung gegen ein Ass des Dealers (meist unbeliebt)
 
-## Dealer-Regel
+### Dealer-Regel
 - Der Dealer muss ziehen, bis er mindestens **17 Punkte** hat  
 - Beachtet wird die **Soft-17-Regel**
 
