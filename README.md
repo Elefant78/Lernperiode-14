@@ -50,25 +50,32 @@ Unser Team arbeitet nach strengen agilen Prinzipien, um in 7 Wochen ein fertiges
 ### Ziel
 - Mehr Punkte als der Dealer erreichen, ohne die **21** zu überschreiten.
 
-### Kartenwerte
+### Kartenwerte/Set
 - **2 bis 10** = Nennwert  
 - **J, Q, K** = 10 Punkte  
 - **Ass** = 1 oder 11 Punkte (flexibel)
+- **Sets** die anzahl sets ist von 1-6 frei wählbar. 
 
 ### Der „Blackjack“
 - Ein **Ass** und eine **10er-Karte** direkt beim ersten Geben  
-- Zahlt meist **3:2**
+- Zahlt meist das **3:2**
 
 ### Aktionen
 - **Hit**: Weitere Karte ziehen  
 - **Stand**: Keine weitere Karte ziehen  
 - **Double Down**: Einsatz verdoppeln, genau eine weitere Karte erhalten  
 - **Split**: Bei zwei gleichen Karten das Blatt teilen (erfordert zwei separate Einsätze)  
-- **Insurance**: Versicherung gegen ein Ass des Dealers (meist unbeliebt)
+
 
 ### Dealer-Regel
 - Der Dealer muss ziehen, bis er mindestens **17 Punkte** hat  
 - Beachtet wird die **Soft-17-Regel**
+
+### Turns
+- **Start** Der Dealer verteilt die offnen Karten von links nach rechts und beendet den Spielzug mit der Upcard (offnen Karte)
+- **Second** Der Dealer verteilt die Karten wieder in der reihen folge, die zweite Karte des Dealers ist verdeckt (Hole Card)
+- **Player Action** Nach dem intital Deal, handeln alle Spieler nach ihren wwünschen und in der Reihenfolge. Der Dealer handelt erst am Schluss.
+- **Dealer's Turn** Erstens deckt der Dealer seine verdeckte Karte auf, der Dealer zieht weitere Karten, bis er mindestens 17 Punkte erreicht hat (festgelegte Regel).
 
 
 &nbsp;
