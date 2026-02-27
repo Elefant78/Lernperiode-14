@@ -155,6 +155,9 @@ Heute habe ich, kurz an der Definition des Spiels festgehalten, damit jede Perso
 
 **Arbeitspakete** Tim Tafolli         
 - [ ] Logik für das Mischen der Karten (In JavaScript)
+- [ ] Die Auswahl der Anzahl der Kartensätz 
+- [ ] Implementierung der Basis-Summen-Funktion (addiert alle Werte eines Arrays von Karten-Objekten).
+- [ ] Integration eines "Bust-Checkers": Eine Funktion, die sofort true zurückgibt, wenn der Wert über 21 steigt
 
 
 **Arbeitspakete** Doruk Güler   
