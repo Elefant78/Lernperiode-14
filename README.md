@@ -42,7 +42,7 @@ Unser Team arbeitet nach strengen agilen Prinzipien, um in 7 Wochen ein fertiges
 - Security: Die Spiellogik (Kartenmischen, Werteberechnung) findet ausschließlich auf dem Server statt, um Manipulationen zu verhindern.
 &nbsp;
 ---
----
+
 &nbsp;
 
 # Die Spielregeln
