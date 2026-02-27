@@ -41,12 +41,30 @@ Unser Team arbeitet nach strengen agilen Prinzipien, um in 7 Wochen ein fertiges
 
 - Security: Die Spiellogik (Kartenmischen, Werteberechnung) findet ausschließlich auf dem Server statt, um Manipulationen zu verhindern.
 
-## Kurzregeln
-- Ziel: Erreiche 21 Punkte oder bleibe näher dran als der Dealer, ohne die 21 zu überschreiten (Bust).
+# Die Spielregeln
 
-- Ablauf: Jeder Spieler startet mit zwei Karten. Entscheide zwischen Hit (ziehen) oder Stand (halten).
+## Ziel
+- Mehr Punkte als der Dealer erreichen, ohne die **21** zu überschreiten.
 
-- Dealer-Regel: Die Bank zieht Karten, bis sie mindestens 17 Punkte erreicht hat.
+## Kartenwerte
+- **2 bis 10** = Nennwert  
+- **J, Q, K** = 10 Punkte  
+- **Ass** = 1 oder 11 Punkte (flexibel)
+
+## Der „Blackjack“
+- Ein **Ass** und eine **10er-Karte** direkt beim ersten Geben  
+- Zahlt meist **3:2**
+
+## Aktionen
+- **Hit**: Weitere Karte ziehen  
+- **Stand**: Keine weitere Karte ziehen  
+- **Double Down**: Einsatz verdoppeln, genau eine weitere Karte erhalten  
+- **Split**: Bei zwei gleichen Karten das Blatt teilen (erfordert zwei separate Einsätze)  
+- **Insurance**: Versicherung gegen ein Ass des Dealers (meist unbeliebt)
+
+## Dealer-Regel
+- Der Dealer muss ziehen, bis er mindestens **17 Punkte** hat  
+- Beachtet wird die **Soft-17-Regel**
 
 
 &nbsp;
