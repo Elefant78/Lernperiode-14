@@ -130,12 +130,15 @@ Heute habe ich mich mit meinen Teamkameraden zusammengesetzt und erst einmal geb
 - [x]  Pitch planen / erstellen
 
 **Arbeitspakete** Fynn Huber         
-- [ ] React BSP Projekt aufräumen und eigene Filestruktur erstellen
-- [ ] Grundstruktur der Website erstellen (gerüst)
-- [ ] tailwind CSS installieren und Konfigurieren
+- [x] React BSP Projekt aufräumen und eigene Filestruktur erstellen
+- [x] Grundstruktur der Website erstellen (gerüst)
+- [x] tailwind CSS installieren und Konfigurieren
 - [x]  Pitch planen / erstellen
 
 &nbsp;
 
 **Tages Zusammenfassung**                 
-...
+
+__Fynn Huber__    
+Heute habe ich das React-Projekt aufgeräumt und die Dateien hinzugefügt, welche in Zukunft benutzt werden. Danach habe ich angefangen mit dem Handhaben der Lobby und Spieler, da dies das Erste ist, was wir realisieren wollen, sodass sich eine Lobby mit mehreren Spielern erstellen lässt. Zusätzlich habe ich Tailwind im Projekt eingefügt für eine einfachere Handhabung des Stylings.
+
