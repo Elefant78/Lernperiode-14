@@ -122,9 +122,9 @@ Heute habe ich mich mit meinen Teamkameraden zusammengesetzt und erst einmal geb
 - [x]  Pitch planen / erstellen
 
 **Arbeitspakete** Doruk Güler         
-- [ ] Grundlegendes Express server Setup (Hello World)
+- [x] Grundlegendes Express server Setup (Hello World)
 - [ ] Socket.io auf dem Server initialisieren
-- [ ] .gitignore für Node ersellen
+- [x] .gitignore für Node ersellen
 - [x]  Pitch planen / erstellen
 
 **Arbeitspakete** Fynn Huber         
