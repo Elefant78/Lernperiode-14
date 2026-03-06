@@ -183,6 +183,7 @@ __Fynn Huber__
 Da das Team nicht vollständig anwesend war und es mir selbst auch nicht möglich war die die komplette lernperiode anwesend zu sein habe ich nicht alle meine Arbeitspackete erledigen können. Ich konnte das Handlich der Lobby vervollständigen, sprich die funktionen zum beitreten von Spielern und speichern von diesen. Zusätzlich habe ich die anzeige dieser Spieler im Frotnend implementiert sodass man in der Lobby sehen kann wer beigetreten ist. 
 
 __Tim Tafolli__
+Ich verantwortete die mathematische Basis des Spiels. Durch den Fisher-Yates-Shuffle stellte ich absolute Fairness sicher. Aktuell implementiere ich die flexible Deck-Anzahl sowie die automatisierte Punkteberechnung inklusive Bust-Checker. Damit schaffe ich das regelkonforme Backend-Fundament, das die Spieldaten für unsere Socket-Kommunikation und das Frontend zuverlässig bereitstellt.
 
 __Doruk Güler__
 
@@ -196,7 +197,9 @@ __Doruk Güler__
 **Arbeitspakete** Tim Tafolli    
 
 **Arbeitspakete** Doruk Güler
-
+- [ ] Intelligente Ass-Logik: Ass = 11 und 1
+- [ ] Bust-Logik & Status-Export
+- [ ] Gewinn-Logik-Funktion
 
 
 **Arbeitspakete** Fynn Huber                
