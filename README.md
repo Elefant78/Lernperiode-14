@@ -168,9 +168,9 @@ Heute habe ich, kurz an der Definition des Spiels festgehalten, damit jede Perso
 
 **Arbeitspakete** Fynn Huber         
 - [ ] Fertigstellung des Codes für das Handling der Lobby und Spieler. 
-- [ ] Die Spielerliste anzeigen im Browser (welche spieler in der Lobby sind)
-- [ ] Lobby einstellungen definieren (im Team besprechen) und diese Einstellungen in der ansichten einbinden
-- [ ] Spiel Starten Button hinzufügen um das Spiel zu starten (Bereit Button für die anderen Teilnehmer)
+- [ ] Das biserhige Backend auf Azure hosten um die Kommunikation zu Testen (voraussetzung Doruk AP)
+- [ ] Einen Teilbaren Link erstellen für die Lobby um das beitreten zu Testen
+- [ ] Die Testkonzept Chatroom webapp vervollständigem um die Kommunikation zwischen benutzern zu Testen. 
 
 
 &nbsp;
