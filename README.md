@@ -191,18 +191,15 @@ __Doruk Güler__
 
 &nbsp;
 
-## Arbeit 13.03.2026        
+## Arbeit 13.03.2026             
 
-**Arbeitspakete** Tim Tafolli         
---
+**Arbeitspakete** Tim Tafolli    
 
-
-**Arbeitspakete** Doruk Güler   
---
+**Arbeitspakete** Doruk Güler
 
 
 
-**Arbeitspakete** Fynn Huber    
+**Arbeitspakete** Fynn Huber                
 - [ ] teilbaren Link erstellen damit Spieler später beitreten können in die dazugehörige Lobby
 - [ ] Das biserhige Backend auf Azure hosten um die Kommunikation zu Testen (voraussetzung Doruk AP)
 - [ ] Die Testkonzept Chatroom webapp vervollständigem um die Kommunikation zwischen benutzern zu Testen. 
