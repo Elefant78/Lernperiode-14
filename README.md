@@ -177,4 +177,39 @@ Heute nicht da
 
 &nbsp;
 
-**Tages Zusammenfassung**          
+**Tages Zusammenfassung**     
+
+__Fynn Huber__
+Da das Team nicht vollständig anwesend war und es mir selbst auch nicht möglich war die die komplette lernperiode anwesend zu sein habe ich nicht alle meine Arbeitspackete erledigen können. Ich konnte das Handlich der Lobby vervollständigen, sprich die funktionen zum beitreten von Spielern und speichern von diesen. Zusätzlich habe ich die anzeige dieser Spieler im Frotnend implementiert sodass man in der Lobby sehen kann wer beigetreten ist. 
+
+__Tim Tafolli__
+
+__Doruk Güler__
+
+
+
+
+&nbsp;
+
+## Arbeit 13.03.2026        
+
+**Arbeitspakete** Tim Tafolli         
+--
+
+
+**Arbeitspakete** Doruk Güler   
+--
+
+
+
+**Arbeitspakete** Fynn Huber    
+- [ ] teilbaren Link erstellen damit Spieler später beitreten können in die dazugehörige Lobby
+- [ ] Das biserhige Backend auf Azure hosten um die Kommunikation zu Testen (voraussetzung Doruk AP)
+- [ ] Die Testkonzept Chatroom webapp vervollständigem um die Kommunikation zwischen benutzern zu Testen. 
+
+
+&nbsp;
+
+**Tages Zusammenfassung**     
+
+
