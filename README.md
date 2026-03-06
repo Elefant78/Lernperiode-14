@@ -154,7 +154,7 @@ Heute habe ich, kurz an der Definition des Spiels festgehalten, damit jede Perso
 ## Arbeit 06.03.2026        
 
 **Arbeitspakete** Tim Tafolli         
-- [ ] Logik für das Mischen der Karten (In JavaScript)
+- [X] Logik für das Mischen der Karten (In JavaScript)
 - [ ] Die Auswahl der Anzahl der Kartensätz 
 - [ ] Implementierung der Basis-Summen-Funktion (addiert alle Werte eines Arrays von Karten-Objekten).
 - [ ] Integration eines "Bust-Checkers": Eine Funktion, die sofort true zurückgibt, wenn der Wert über 21 steigt
@@ -164,10 +164,12 @@ Heute habe ich, kurz an der Definition des Spiels festgehalten, damit jede Perso
 - [ ] Individuelle Lobbys IDs erstellen      
 - [ ] Lobby mit ID beitreten
 - [ ] Lobbysysthem ans Frontend anpassen
+Heute nicht da
+
 
 
 **Arbeitspakete** Fynn Huber         
-- [ ] Fertigstellung des Codes für das Handling der Lobby und Spieler. 
+- [X] Fertigstellung des Codes für das Handling der Lobby und Spieler. 
 - [ ] Das biserhige Backend auf Azure hosten um die Kommunikation zu Testen (voraussetzung Doruk AP)
 - [ ] Einen Teilbaren Link erstellen für die Lobby um das beitreten zu Testen
 - [ ] Die Testkonzept Chatroom webapp vervollständigem um die Kommunikation zwischen benutzern zu Testen. 
