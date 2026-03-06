@@ -171,7 +171,7 @@ Heute nicht da
 **Arbeitspakete** Fynn Huber         
 - [X] Fertigstellung des Codes für das Handling der Lobby und Spieler. 
 - [ ] Das biserhige Backend auf Azure hosten um die Kommunikation zu Testen (voraussetzung Doruk AP)
-- [ ] Einen Teilbaren Link erstellen für die Lobby um das beitreten zu Testen
+- [x] Die lobby Logik damit spieler die beigetreten sind angezeigt werden können.
 - [ ] Die Testkonzept Chatroom webapp vervollständigem um die Kommunikation zwischen benutzern zu Testen. 
 
 
