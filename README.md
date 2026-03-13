@@ -161,8 +161,10 @@ Heute habe ich, kurz an der Definition des Spiels festgehalten, damit jede Perso
 
 
 **Arbeitspakete** Doruk Güler   
-- [ ] Individuelle Lobbys IDs erstellen      
-- [ ] Lobby mit ID beitreten
+- [x] Individuelle Lobbys IDs erstellen      
+- [x] Lobby mit ID beitreten
+- [x] Speil als Host Starten (Backend Logik)
+- [x] Lobby auflösen
 - [ ] Lobbysysthem ans Frontend anpassen
 Heute nicht da
 
