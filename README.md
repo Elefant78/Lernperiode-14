@@ -190,8 +190,6 @@ Ich verantwortete die mathematische Basis des Spiels. Durch den Fisher-Yates-Shu
 __Doruk Güler__
 
 
-
-
 &nbsp;
 
 ## Arbeit 13.03.2026             
@@ -214,4 +212,97 @@ __Doruk Güler__
 
 **Tages Zusammenfassung**     
 
+__Fynn Huber__         
+Absent - Abschlussprüfung Englisch
 
+__Tim Tafolli__        
+Absent - Abschlussprüfung Englisch
+
+__Doruk Güler__
+
+&nbsp;
+
+## Arbeit 20.03.2026             
+
+**Arbeitspakete** Tim Tafolli    
+
+**Arbeitspakete** Doruk Güler
+- [ ] Intelligente Ass-Logik: Ass = 11 und 1
+- [ ] Bust-Logik & Status-Export
+- [ ] Gewinn-Logik-Funktion
+
+
+**Arbeitspakete** Fynn Huber                
+- [ ] teilbaren Link erstellen damit Spieler später beitreten können in die dazugehörige Lobby
+- [ ] Das biserhige Backend auf Azure hosten um die Kommunikation zu Testen (voraussetzung Doruk AP)
+- [ ] Die Testkonzept Chatroom webapp vervollständigem um die Kommunikation zwischen benutzern zu Testen. 
+
+
+&nbsp;
+
+**Tages Zusammenfassung**     
+
+__Fynn Huber__         
+xxx
+
+__Tim Tafolli__        
+xxx
+
+__Doruk Güler__
+xxx
+
+&nbsp;
+
+## Arbeit 27.03.2026             
+
+**Arbeitspakete** Tim Tafolli    
+- [ ]
+  
+**Arbeitspakete** Doruk Güler
+- [ ]
+
+
+**Arbeitspakete** Fynn Huber                
+- [ ] 
+
+
+&nbsp;
+
+**Tages Zusammenfassung**     
+
+__Fynn Huber__         
+xxx
+
+__Tim Tafolli__        
+xxx
+
+__Doruk Güler__             
+xxx
+
+&nbsp;
+
+## Arbeit 03.04.2026             
+
+**Arbeitspakete** Tim Tafolli    
+- [ ]
+  
+**Arbeitspakete** Doruk Güler
+- [ ]
+
+
+**Arbeitspakete** Fynn Huber                
+- [ ] 
+
+
+&nbsp;
+
+**Tages Zusammenfassung**     
+
+__Fynn Huber__         
+xxx
+
+__Tim Tafolli__        
+xxx
+
+__Doruk Güler__             
+xxx
