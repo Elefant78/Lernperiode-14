@@ -222,8 +222,8 @@ __Doruk Güler__
 ## Arbeit 20.03.2026             
 
 **Arbeitspakete** Tim Tafolli  
-- [ ] Die Auswahl der Anzahl der Kartensätz und die Ziehung der Karten
-- [ ] Implementierung Player, dadurch noch deren Kartenziehung
+- [x] Die Auswahl der Anzahl der Kartensätz und die Ziehung der Karten
+- [x] Implementierung Player, dadurch noch deren Kartenziehung
 - [ ] Entwicklung der dealerTurn-Schleife: Solange score < 17, rufe die drawCard-Funktion auf.
 
 **Arbeitspakete** Doruk Güler
@@ -247,7 +247,7 @@ Heute habe ich zuerst das Backend und Frontend zusammen mit Drouk bereinigt, sod
 
 
 __Tim Tafolli__        
-xxx
+Ich habe heute an der Logik des Blackjacks gearbeitet, habe die cards mit unserem backend verbunden und die spieler.js implementiert. Die Logik hat am meisten Zeit gebraucht, wichtig war jedoch das die card.js kombatiebel ist mit blackjack.js so das die funktion des Kartenzuges funktioniert. Die logik das queen, king zehn punkte sind isch auch gemacht worden. 
 
 __Doruk Güler__
 xxx
@@ -257,7 +257,9 @@ xxx
 ## Arbeit 27.03.2026             
 
 **Arbeitspakete** Tim Tafolli    
-- [ ] 
+- [ ] Entwicklung der dealerTurn-Schleife: Solange score < 17, rufe die drawCard-Funktion auf.
+- [ ] Player turn hit implemetieren.
+- [ ] Player turn stand implementieren.
   
 **Arbeitspakete** Doruk Güler
 - [ ]
