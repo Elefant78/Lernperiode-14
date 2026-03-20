@@ -262,7 +262,9 @@ Ich habe heute an der Verknüpfung des Backends mit dem Frontend gearbeitet und 
 - [ ] Player turn stand implementieren.
   
 **Arbeitspakete** Doruk Güler
-- [ ]
+- [ ] Intelligente Ass-Logik: Ass = 11 und 1
+- [ ] Bust-Logik & Status-Export
+- [ ] Gewinn-Logik-Funktion
 
 
 **Arbeitspakete** Fynn Huber                
