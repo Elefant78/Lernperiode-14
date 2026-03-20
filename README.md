@@ -250,7 +250,7 @@ __Tim Tafolli__
 Ich habe heute an der Logik des Blackjacks gearbeitet, habe die cards mit unserem backend verbunden und die spieler.js implementiert. Die Logik hat am meisten Zeit gebraucht, wichtig war jedoch das die card.js kombatiebel ist mit blackjack.js so das die funktion des Kartenzuges funktioniert. Die logik das queen, king zehn punkte sind isch auch gemacht worden. 
 
 __Doruk Güler__
-xxx
+Ich habe heute an der Verknüpfung des Backends mit dem Frontend gearbeitet und mit Fynn konnten wir das Lobbyprinzip komplet implementieren. Danach habe ich mich über das Hosten mit Azure informiert.
 
 &nbsp;
 
