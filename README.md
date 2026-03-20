@@ -233,7 +233,7 @@ __Doruk Güler__
 
 
 **Arbeitspakete** Fynn Huber                
-- [ ] teilbaren Link erstellen damit Spieler später beitreten können in die dazugehörige Lobby
+- [x] teilbaren Link erstellen damit Spieler später beitreten können in die dazugehörige Lobby
 - [ ] Das biserhige Backend auf Azure hosten um die Kommunikation zu Testen (voraussetzung Doruk AP)
 - [ ] Die Testkonzept Chatroom webapp vervollständigem um die Kommunikation zwischen benutzern zu Testen. 
 
@@ -243,7 +243,8 @@ __Doruk Güler__
 **Tages Zusammenfassung**     
 
 __Fynn Huber__         
-xxx
+Heute habe ich zuerst das Backend und Frontend zusammen mit Drouk bereinigt, sodass die beiden Systeme zusammenpassen (Namen, Funktionen etc.). Danach habe ich die Systeme verbunden und lokal bei mir laufen lassen. Anschliessend habe ich die Eingabemaske, um eine Lobby zu erstellen, angepasst und einen teilbaren Link erstellt. Am Schluss war es möglich, einer bestehenden Lobby von einem anderen Browserfenster beizutreten. Somit ist das Zusammenspielen schon mal möglich.
+
 
 __Tim Tafolli__        
 xxx
@@ -256,14 +257,16 @@ xxx
 ## Arbeit 27.03.2026             
 
 **Arbeitspakete** Tim Tafolli    
-- [ ]
+- [ ] 
   
 **Arbeitspakete** Doruk Güler
 - [ ]
 
 
 **Arbeitspakete** Fynn Huber                
-- [ ] 
+- [ ] Projekt auf Azure hosten damit das Backend nicht mehr nur Lokal auf meinem Rechner läuft.
+- [ ] Testen des Zusammenspielens und auftretende fehler beheben (maximale Spieleranzahl, gleiche Spielernamen etc.)
+- [ ] Designsprache des Spiels erarbeiten und den Startscreen anhand der Planung anpassen.
 
 
 &nbsp;
