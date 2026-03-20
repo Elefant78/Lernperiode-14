@@ -203,9 +203,6 @@ __Doruk Güler__
 
 
 **Arbeitspakete** Fynn Huber                
-- [ ] teilbaren Link erstellen damit Spieler später beitreten können in die dazugehörige Lobby
-- [ ] Das biserhige Backend auf Azure hosten um die Kommunikation zu Testen (voraussetzung Doruk AP)
-- [ ] Die Testkonzept Chatroom webapp vervollständigem um die Kommunikation zwischen benutzern zu Testen. 
 
 
 &nbsp;
@@ -224,7 +221,10 @@ __Doruk Güler__
 
 ## Arbeit 20.03.2026             
 
-**Arbeitspakete** Tim Tafolli    
+**Arbeitspakete** Tim Tafolli  
+- [ ] Die Auswahl der Anzahl der Kartensätz und die Ziehung der Karten
+- [ ] Implementierung Player, dadurch noch deren Kartenziehung
+- [ ] Entwicklung der dealerTurn-Schleife: Solange score < 17, rufe die drawCard-Funktion auf.
 
 **Arbeitspakete** Doruk Güler
 - [ ] Intelligente Ass-Logik: Ass = 11 und 1
