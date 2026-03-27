@@ -263,7 +263,7 @@ Ich habe heute an der Verknüpfung des Backends mit dem Frontend gearbeitet und 
   
 **Arbeitspakete** Doruk Güler
 - [x] Intelligente Ass-Logik: Ass = 11 und 1
-- [ ] Bust-Logik & Status-Export
+- [x] Projekt auf Azure Hosten für Demo
 - [ ] Gewinn-Logik-Funktion
 
 
@@ -285,7 +285,7 @@ __Tim Tafolli__
 xxx
 
 __Doruk Güler__             
-xxx
+Ich habe heut mit dem Backend gestartet und habe das Ass logik ergänzt. Durch diesen code wird jetzt geschaut ob ein Ass als 11 oder 1 gilt. Danach habe ich Fynn dabei geholfen die erste Version auf Azure zu hosten und man kann jetzt Online auf unser Projekt gehen und Lobbys erstellen oder Lobbys joinen.
 
 &nbsp;
 
@@ -295,7 +295,8 @@ xxx
 - [ ]
   
 **Arbeitspakete** Doruk Güler
-- [ ]
+- [ ] Einstellungs Variabeln wie start Kapital mit Backend verknüpfen
+- [ ] Gewinn-Logik-Funktion
 
 
 **Arbeitspakete** Fynn Huber                
