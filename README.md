@@ -268,8 +268,8 @@ Ich habe heute an der Verknüpfung des Backends mit dem Frontend gearbeitet und 
 
 
 **Arbeitspakete** Fynn Huber                
-- [ ] Projekt auf Azure hosten damit das Backend nicht mehr nur Lokal auf meinem Rechner läuft.
-- [ ] Testen des Zusammenspielens und auftretende fehler beheben (maximale Spieleranzahl, gleiche Spielernamen etc.)
+- [x] Projekt auf Azure hosten damit das Backend nicht mehr nur Lokal auf meinem Rechner läuft.
+- [x] Layout der verschiedenen Ansichten mittels eines Mockup gestalten. 
 - [x] Designsprache des Spiels erarbeiten und den Startscreen anhand der Planung anpassen.
 
 
@@ -278,7 +278,8 @@ Ich habe heute an der Verknüpfung des Backends mit dem Frontend gearbeitet und 
 **Tages Zusammenfassung**     
 
 __Fynn Huber__         
-xxx
+Heute habe ich zuerst zusammen mit Doruk das bisherige Testprojekt auf Azure gehostet, damit wir später nur noch den Code abändern müssen. Anschliessend habe ich an verschiedenen Farbkonzepten gearbeitet, welche zu Blackjack passen würden. Am Schluss habe ich mich für ein klassisches Poker-Tisch-Design entschieden. Anhand dessen habe ich dann das Layout der verschiedenen Ansichten (Start-Screen, Lobby, Game) gestaltet. Diese sind noch nicht final und dienen als Orientierung, um ein Bild davon zu haben, an was man arbeitet.
+
 
 __Tim Tafolli__        
 xxx
@@ -298,7 +299,9 @@ xxx
 
 
 **Arbeitspakete** Fynn Huber                
-- [ ] 
+- [ ] Design für den Start und Lobby Screen umsetzen
+- [ ] EInstellungsmöglichkeiten Implementieren inkl. Eingabemakse (Startbetrag etc.)
+- [ ] Grundgerüst der Spielansicht erstellen. (design von Karten, Chips etc.)
 
 
 &nbsp;
