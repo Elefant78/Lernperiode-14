@@ -258,17 +258,17 @@ Ich habe heute an der Verknüpfung des Backends mit dem Frontend gearbeitet und 
 
 **Arbeitspakete** Tim Tafolli    
 - [ ] Entwicklung der dealerTurn-Schleife: Solange score < 17, rufe die drawCard-Funktion auf.
-- [ ] Player turn hit implemetieren.
+- [X] Player turn hit implemetieren.
 - [ ] Player turn stand implementieren.
   
 **Arbeitspakete** Doruk Güler
-- [ ] Intelligente Ass-Logik: Ass = 11 und 1
+- [x] Intelligente Ass-Logik: Ass = 11 und 1
 - [ ] Bust-Logik & Status-Export
 - [ ] Gewinn-Logik-Funktion
 
 
 **Arbeitspakete** Fynn Huber                
-- [ ] Projekt auf Azure hosten damit das Backend nicht mehr nur Lokal auf meinem Rechner läuft.
+- [X] Projekt auf Azure hosten damit das Backend nicht mehr nur Lokal auf meinem Rechner läuft.
 - [ ] Testen des Zusammenspielens und auftretende fehler beheben (maximale Spieleranzahl, gleiche Spielernamen etc.)
 - [ ] Designsprache des Spiels erarbeiten und den Startscreen anhand der Planung anpassen.
 
