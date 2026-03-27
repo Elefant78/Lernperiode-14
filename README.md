@@ -268,9 +268,9 @@ Ich habe heute an der Verknüpfung des Backends mit dem Frontend gearbeitet und 
 
 
 **Arbeitspakete** Fynn Huber                
-- [X] Projekt auf Azure hosten damit das Backend nicht mehr nur Lokal auf meinem Rechner läuft.
+- [ ] Projekt auf Azure hosten damit das Backend nicht mehr nur Lokal auf meinem Rechner läuft.
 - [ ] Testen des Zusammenspielens und auftretende fehler beheben (maximale Spieleranzahl, gleiche Spielernamen etc.)
-- [ ] Designsprache des Spiels erarbeiten und den Startscreen anhand der Planung anpassen.
+- [x] Designsprache des Spiels erarbeiten und den Startscreen anhand der Planung anpassen.
 
 
 &nbsp;
