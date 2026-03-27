@@ -282,7 +282,8 @@ Heute habe ich zuerst zusammen mit Doruk das bisherige Testprojekt auf Azure geh
 
 
 __Tim Tafolli__        
-xxx
+
+Heute haben wir das Turn-Management und die aktiven Spielzüge erfolgreich implementiert. Mit „Hit“ können Spieler regelkonform Karten ziehen, während „Stand“ den Zug sicher an den Nächsten weitergibt. Den Abschluss bildet die automatisierte Dealer-Schleife, die als Bank-KI selbstständig zieht, bis 17 Punkte erreicht sind. Die Kern-Engine läuft!
 
 __Doruk Güler__             
 Ich habe heut mit dem Backend gestartet und habe das Ass logik ergänzt. Durch diesen code wird jetzt geschaut ob ein Ass als 11 oder 1 gilt. Danach habe ich Fynn dabei geholfen die erste Version auf Azure zu hosten und man kann jetzt Online auf unser Projekt gehen und Lobbys erstellen oder Lobbys joinen.
@@ -292,7 +293,9 @@ Ich habe heut mit dem Backend gestartet und habe das Ass logik ergänzt. Durch d
 ## Arbeit 03.04.2026             
 
 **Arbeitspakete** Tim Tafolli    
-- [ ]
+- [ ] Betting-System (Wetten): Implementierung von Startguthaben (z. B. 1000$) und Einsätzen. Anpassung der getWinners-Funktion für korrekte Auszahlungen (inklusive 3:2 für ein Blackjack) und Verlustabzüge.
+- [ ] Double Down (Verdoppeln): Erstellen der Funktion playerDoubleDown: Diese verdoppelt den Einsatz, zieht exakt eine letzte Karte und beendet den Zug des Spielers danach sofort.
+- [ ] Split (Teilen): Funktion playerSplit programmieren: Erlaubt bei zwei gleichen Startkarten (z.B. zwei Achten) das Aufteilen in zwei separate, nacheinander spielbare Hände gegen einen zweiten Einsatz.
   
 **Arbeitspakete** Doruk Güler
 - [ ] Einstellungs Variabeln wie start Kapital mit Backend verknüpfen
